@@ -7,4 +7,8 @@ The program was developed at Harper Adams University by Matt Butler.
 ### Versions
 
 - **desktop_image_labeller.py** for labeling images that are stored locally on a PC
+<<<<<<< HEAD
 - **wireless_image_labeller.py** for labelling images that are recorded live with a webcam
+=======
+- **wireless_image_labeller.py** for labelling images that are recorded live with a webcam
+>>>>>>> 2dd48a799f6c76812e08645f08198c36c70b157e
