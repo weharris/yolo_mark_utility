@@ -10,3 +10,6 @@ The program was developed at Harper Adams University by Matt Butler.
 
 - **wireless_image_labeller.py** for labelling images that are recorded live with a webcam
 
+**Citation**
+
+Harris, W. Edwin et al. (2021), Data From: Investigating human repeatability of a computer vision based task to identify meristems on a potato plant (Solanum tuberosum)., Dryad, Dataset, https://doi.org/10.5061/dryad.2rbnzs7pz
