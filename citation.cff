@@ -1,0 +1,37 @@
+cff-version: 1.0.0
+message: "If you use this software, please cite it as below."
+title: "R Stats Bootcamp"
+abstract: "A self-paced course for learning R programming, statistical analysis, and reproducible research practices. Designed for beginners with modules covering R scripting, RStudio interface, data analysis fundamentals, and reproducible research workflows using R and GitHub."
+authors:
+- family-names: "Harris"
+  given-names: "W. E."
+  orcid: "https://orcid.org/0000-0002-9038-8656"
+- family-names: "Butler"
+  given-names: "Matthew"
+title: "Yolo Mark Utility"
+version: 1.0.0
+doi: 10.5281/zenodo.10853601
+date-released: 2022-08-01
+url: "https://github.com/yolo_mark_utility"
+license: MIT
+keywords:
+  - yolo
+  - computer Vision
+  - deep learning
+  - python
+preferred-citation:
+  type: software
+  authors:
+  - family-names: "Harris"
+    given-names: "W. E."
+    orcid: "https://orcid.org/0000-0002-9038-8656"
+    affiliation: "Centre for Agricultural Data Science, Harper Adams University"
+  - family-names: "Butler"
+    given-names: "Matthew"
+    affiliation: "Centre for Agricultural Data Science, Harper Adams University"
+  title: "Yolo Mark Utility: Software to create training datasets for Yolo"
+  year: 2023  # Update to your publication year
+  url: "https://github.com/yolo_mark_utility"
+  doi: "10.5281/zenodo.10853601"
+  publisher: "Centre for Agricultural Data Science, Harper Adams University"
+  notes: "Yolo Mark Utility, open software to aid creating yolo training data using a webcam"
